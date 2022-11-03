@@ -42,7 +42,7 @@ section {
 } 
 
  
-.center {
+/* .center {
     text-align: center;
 }  */
 
@@ -51,13 +51,13 @@ section {
 /*====footer styles====*/
 
 
- /* footer {
+  footer {
     
     background-color: white;
     
-}  */
+} 
 
- /* .disclaimer {   
+  .disclaimer {   
     padding: 5px;
     text-align: center;
-}  */
+} 
