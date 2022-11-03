@@ -68,3 +68,8 @@ a {
     font-size: 25px;
     font-weight: bold;
 }
+
+.section-one {
+    border: solid white;
+    background-color: darkslateblue;
+}
